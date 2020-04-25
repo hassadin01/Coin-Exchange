@@ -70,7 +70,9 @@ namespace CoinExchange
                         case "y":
                             cash = 0;
                             quan = 0;
+                            Console.Clear();
                             continue;
+
 
                         case "n":
                             Conditioncash = false;
@@ -131,6 +133,7 @@ namespace CoinExchange
                     case "y":
                         totalcash = 0;
                         Conditioncash = true;
+                        Console.Clear();
                         break;
 
                     case "n":
