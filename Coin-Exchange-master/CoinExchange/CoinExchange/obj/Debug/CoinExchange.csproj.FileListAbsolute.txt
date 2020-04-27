@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CoinExchange\CoinExchange\bin\Debug\CoinExchange.exe.config
+C:\Users\User\source\repos\CoinExchange\CoinExchange\bin\Debug\CoinExchange.exe
+C:\Users\User\source\repos\CoinExchange\CoinExchange\bin\Debug\CoinExchange.pdb
+C:\Users\User\source\repos\CoinExchange\CoinExchange\obj\Debug\CoinExchange.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CoinExchange\CoinExchange\obj\Debug\CoinExchange.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CoinExchange\CoinExchange\obj\Debug\CoinExchange.exe
+C:\Users\User\source\repos\CoinExchange\CoinExchange\obj\Debug\CoinExchange.pdb
